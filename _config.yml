@@ -1,0 +1,8 @@
+title: Massachusetts Legal Hackers
+description: Open Events Pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
